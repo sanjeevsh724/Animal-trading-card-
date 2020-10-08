@@ -1,0 +1,49 @@
+.container {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  border: 1px solid #d9dad9;
+  box-shadow: 10px 10px 5px 0px rgba(236,236,236,1);
+}
+
+ul {
+  padding: 0;
+}
+
+h3,
+figure {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+figcaption {
+  font-size: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+li {
+  list-style: none;
+  font-size: 13px;
+}
+
+.image {
+  width: 100%;
+  max-width: 300px;
+}
+
+.facts-wrapper {
+  border: 1px solid #d9dad9;
+  padding: 15px;
+}
+
+.interesting-facts {
+  font-style: italic;
+}
+
+.fact-list {
+  font-weight: bold;
+}
